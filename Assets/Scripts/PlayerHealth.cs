@@ -17,6 +17,7 @@ public class PlayerHealth : MonoBehaviour
     public float invincibilityFlashDelay = 0.2f;
     public float invincibilityTimeAfterHit = 2.5f;
     public VoidEventChannelSO OnEventLastCheckpointSO;
+    public VoidEventChannelSO onPlayerDeathSO;
 
 
     [Tooltip("Please uncheck it on production")]
