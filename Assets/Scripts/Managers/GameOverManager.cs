@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class GameOverManager : MonoBehaviour
 {
-    public VoidEventSO onPlayerDeath;
+    public VoidEventChannelSO onPlayerDeath;
     public GameObject gameOverScreenUI;
     
     private void Awake() {
