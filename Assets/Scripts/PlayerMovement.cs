@@ -63,10 +63,10 @@ public class PlayerMovement : MonoBehaviour
     {
         if (isGamePaused)
         {
-            return;
+            // isGamePaused
         }
         moveDirectionX = Input.GetAxis("Horizontal");
-        isRunningFast = Input.GetKey(KeyCode.V);
+        isRunningFast = Input.GetKey(KeyCode.LeftShift);
 
         if (isGrounded && !Input.GetButton("Jump"))
         {
