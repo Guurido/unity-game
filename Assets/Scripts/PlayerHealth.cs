@@ -13,7 +13,6 @@ public class PlayerHealth : MonoBehaviour
     public SpriteRenderer spriteRenderer;
 
     private bool isInvincible = false;
-
     public float invincibilityFlashDelay = 0.2f;
     public float invincibilityTimeAfterHit = 2.5f;
     public VoidEventChannelSO OnEventLastCheckpointSO;

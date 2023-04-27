@@ -54,6 +54,7 @@
      <Compile Include="Assets\Scripts\CameraFollow.cs" />
      <Compile Include="Assets\ScriptableObjects\Events\IntEventChannelSO.cs" />
      <Compile Include="Assets\Scripts\Utils\LookAtBehavior.cs" />
+     <Compile Include="Assets\Scripts\Managers\gameOverManager.cs" />
      <Compile Include="Assets\ScriptableObjects\Events\VoidEventChannelSO.cs" />
      <Compile Include="Assets\Scripts\Enemies\EnemySplitting.cs" />
      <Compile Include="Assets\ScriptableObjects\Events\BoolEventChannelSO.cs" />
@@ -69,6 +70,7 @@
      <Compile Include="Assets\Scripts\DeathZone.cs" />
      <Compile Include="Assets\ScriptableObjects\EventsListeners\VoidEventListener.cs" />
      <Compile Include="Assets\Scripts\PlayerSpawn.cs" />
+     <Compile Include="Assets\Scripts\Managers\RestartLevel.cs" />
      <Compile Include="Assets\ScriptableObjects\Variables\ShakeTypeVariable.cs" />
      <Compile Include="Assets\Scripts\UIBar.cs" />
      <Compile Include="Assets\ReadOnlyInspectorAttribute.cs" />
@@ -84,8 +86,6 @@
      <Compile Include="Assets\ScriptableObjects\EventsListeners\PlaySoundAtEventListener.cs" />
      <Compile Include="Assets\Scripts\Utils\Rotate.cs" />
      <Compile Include="Assets\Scripts\PlayerHealth.cs" />
-     <Compile Include="Assets\Scripts\Managers\gameOverManager.cs" />
-     <Compile Include="Assets\Scripts\Managers\RestartLevel.cs" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />

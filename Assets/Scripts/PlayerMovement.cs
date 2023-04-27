@@ -1,5 +1,6 @@
 using System;
 using UnityEngine;
+using System.Collections;
 
 public class PlayerMovement : MonoBehaviour
 {
@@ -58,13 +59,13 @@ public class PlayerMovement : MonoBehaviour
         maxYVelocity = (jumpForce * 0.10f) + jumpForce;
     }
 
-    // Update is called once per frame
     void Update()
-    {
+    {      
         if (isGamePaused)
         {
             // isGamePaused
         }
+
         moveDirectionX = Input.GetAxis("Horizontal");
         isRunningFast = Input.GetKey(KeyCode.LeftShift);
 
