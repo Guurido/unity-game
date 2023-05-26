@@ -3,7 +3,14 @@ guid: 5162fd71fcfc2374f96fae097d8cf5ad
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - currentHealth: {instanceID: 0}
+  - maxHealth: {instanceID: 0}
+  - onPlayerDeath: {instanceID: 0}
+  - onValueUpdated: {instanceID: 0}
+  - animator: {instanceID: 0}
+  - spriteRenderer: {instanceID: 0}
+  - OnEventLastCheckpointSO: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

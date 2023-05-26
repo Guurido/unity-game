@@ -228,7 +228,7 @@ SpriteRenderer:
   m_SpriteSortPoint: 0
 --- !u!95 &3923393959916686512
 Animator:
-  serializedVersion: 5
+  serializedVersion: 4
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -245,7 +245,7 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorStateOnDisable: 0
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!50 &3923393959916686515
 Rigidbody2D:
   serializedVersion: 4
@@ -307,13 +307,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentHealth: {fileID: 11400000, guid: 3f80a400f7ba81c4988bfef205296ad6, type: 2}
   maxHealth: {fileID: 11400000, guid: 57cfb8340e449824ea37d99614d90703, type: 2}
-  onPlayerDeath: {fileID: 11400000, guid: 3f7a2d2cbb78aef4ea002742544fcee1, type: 2}
-  onValueUpdated: {fileID: 11400000, guid: 8c1a08d636a964f438780a15a900c63a, type: 2}
+  onPlayerDeath: {fileID: 11400000, guid: e0b8ec73eeeaa0b47ab72ed51288e42c, type: 2}
+  onPlayerHit: {fileID: 11400000, guid: 8c1a08d636a964f438780a15a900c63a, type: 2}
   animator: {fileID: 3923393959916686512}
   spriteRenderer: {fileID: 3923393959916686513}
   invincibilityFlashDelay: 0.2
   invincibilityTimeAfterHit: 2.5
-  OnEventLastCheckpointSO: {fileID: 11400000, guid: f361a8a393008184bbf5cdb1b57dab12, type: 2}
   needResetHP: 1
 --- !u!114 &3923393959916686517
 MonoBehaviour:
@@ -329,7 +328,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentSpawnPosition: {x: 0, y: 0, z: 0}
   initialSpawnPosition: {x: 0, y: 0, z: 0}
-  OnEventLastCheckpoint: {fileID: 11400000, guid: f361a8a393008184bbf5cdb1b57dab12, type: 2}
 --- !u!114 &3923393959916686508
 MonoBehaviour:
   m_ObjectHideFlags: 0
