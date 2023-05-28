@@ -9,7 +9,7 @@ niveau 1 pour pouvoir l'utiliser mais lorsque l'on test celui-ci le menu ne s'af
 ### PS
 
 La SAE était étrange, nous nous attendions pas à cette organisation. Trop de projet se sont accumulé dont celui 
-de Linardi qui était de trop (pas présent dans le pn) Ce qui nous a laissé très peu de temps à consacré à notre projet Unity.
+de M.Linardi qui était de trop (pas présent dans le pn) Ce qui nous a laissé très peu de temps à consacré à notre projet Unity.
 Pour les prochaines génération MMI, nous suggérons qu'il faut libérer plus d'heure consacré à Unity, de préférence en
 présentiel. Pour accompagner les élèves durant leur projet et les aider à mieux appréhender ce nouvel outil de travail qu'est Unity.
 Pour revenir à notre cas malheuresement nous avions plein d'idée que nous avions eu du mal à appréhender d'un point de vue conceptuel
