@@ -71,6 +71,7 @@
      <Compile Include="Assets\ScriptableObjects\EventsListeners\StringEventListener.cs" />
      <Compile Include="Assets\Scripts\Enemies\Enemy.cs" />
      <Compile Include="Assets\Scripts\DeathZone.cs" />
+     <Compile Include="Assets\Scripts\LoadCredit.cs" />
      <Compile Include="Assets\ScriptableObjects\EventsListeners\VoidEventListener.cs" />
      <Compile Include="Assets\Scripts\PlayerSpawn.cs" />
      <Compile Include="Assets\ScriptableObjects\Variables\ShakeTypeVariable.cs" />
@@ -80,6 +81,7 @@
      <Compile Include="Assets\Scripts\Knockback.cs" />
      <Compile Include="Assets\Scripts\Managers\PauseManager.cs" />
      <Compile Include="Assets\ScriptableObjects\Variables\CollectibleVariable.cs" />
+     <Compile Include="Assets\Scripts\Enemies\CrazyFrog.cs" />
      <Compile Include="Assets\ScriptableObjects\Variables\StringVariable.cs" />
      <Compile Include="Assets\Scripts\CameraShake.cs" />
      <Compile Include="Assets\ScriptableObjects\EventsListeners\BoolEventListener.cs" />
@@ -89,8 +91,6 @@
      <Compile Include="Assets\Scripts\Utils\Rotate.cs" />
      <Compile Include="Assets\Scripts\Quit.cs" />
      <Compile Include="Assets\Scripts\PlayerHealth.cs" />
-     <Compile Include="Assets\Scripts\LoadCredit.cs" />
-     <Compile Include="Assets\Scripts\Enemies\CrazyFrog.cs" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
