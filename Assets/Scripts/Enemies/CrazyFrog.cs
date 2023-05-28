@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Grenouille : MonoBehaviour
+public class CrazyFrog : MonoBehaviour
 {
     public float jumpForce = 5f;
     public float jumpCooldown = 2f;
