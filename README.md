@@ -14,6 +14,6 @@ Pour les prochaines génération MMI, nous suggérons qu'il faut libérer plus d
 présentiel. Pour accompagner les élèves durant leur projet et les aider à mieux appréhender ce nouvel outil de travail qu'est Unity.
 Pour revenir à notre cas malheuresement nous avions plein d'idée que nous avions eu du mal à appréhender d'un point de vue conceptuel
 et technique (l'intégration de ces idées dans le jeu) Le timing ressérer avec le stage n'a rien arrangé. Nous nous excusons
-de la qualité du travail rendu, nous sommes les premiers deçu.
+de la qualité du travail rendu, nous sommes les premiers deçu. 2 camarades ne se sont pas rendu disponible pour contribué au projet.
 
 En vous remerciant de tous les efforts que vous aviez fait et en esperant produire de meilleur chose l'an prochain.
